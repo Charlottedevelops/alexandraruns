@@ -1,0 +1,24 @@
+{
+  "name": "AlexandraRuns",
+  "short_name": "AlexandraRuns",
+  "description": "Track your running and cycling distances month by month",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F8F7FF",
+  "theme_color": "#6366F1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "600x600",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
